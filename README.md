@@ -56,12 +56,13 @@ Trabajo de forma metódica, cuidando la calidad del código y la experiencia del
 
 ---
 
-### **Certificaciones**
+### **Certificaciones y especialización**
 
-| Formación | Título Oficial | Estado |
+| Formación | Titulación | Estado |
 | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/DAW-0A66C2?style=flat-square" /> | **Técnico Superior en Desarrollo de Aplicaciones Web** | <img src="https://img.shields.io/badge/Finalizado-10B981?style=flat-square" /> |
 | <img src="https://img.shields.io/badge/DAM-DC143C?style=flat-square" /> | **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** | <img src="https://img.shields.io/badge/Finalizado-10B981?style=flat-square" /> |
+| <img src="https://img.shields.io/badge/CEIABD-7B2FF7?style=flat-square" /> | **Curso de Especialización en Inteligencia Artificial y Big Data** | <img src="https://img.shields.io/badge/En%20curso-F59E0B?style=flat-square" /> |
 
 ---
 
